@@ -1,11 +1,15 @@
 ___
-** RELOCATED **
 
-*PLEASE NOTE: this project has been relocated to the fork at [https://github.com/uhppoted/uhppoted](https://github.com/uhppoted/uhppoted) and all further development will take place on that fork.*
+**RELOCATED**
+
+*PLEASE NOTE:*
+
+*This project has been relocated to the fork at [https://github.com/uhppoted/uhppoted](https://github.com/uhppoted/uhppoted) and all further development will take place on that fork.*
 
 *Apologies for any inconvenience - but the project had vastly outgrown its initial scope as a simple CLI (and there isn't any end 
 in sight :-)) and was rapidly becoming a monster so it seemed better to relocate it to a dedicated place where it could be 
 restructured and future development simplified.*
+
 ___
 
 # uhppote-go
