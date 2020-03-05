@@ -1,5 +1,5 @@
 ___
-**-- RELOCATED --**
+** RELOCATED **
 
 *PLEASE NOTE: this project has been relocated to the fork at [https://github.com/uhppoted/uhppoted](https://github.com/uhppoted/uhppoted) and all further development will take place on that fork.*
 
